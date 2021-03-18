@@ -1,7 +1,7 @@
 The layout editor
 ===========================
-##Coding challenge
+##changed to Linear Layout
 ###
 =============================
-<img height="700" width="50%" src="screenshoot/tab5.png">
+<img height="700" width="50%" src="screenshoot/linear.png">
 
